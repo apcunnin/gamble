@@ -1,0 +1,1 @@
+This is the repository for a gambling for fun web application. 
